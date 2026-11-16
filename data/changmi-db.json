@@ -1,0 +1,13 @@
+{
+  "storeName": "Quán Mì Cay Changmi",
+  "defaultHourlyRate": 20000,
+  "employees": [],
+  "attendance": [],
+  "adjustments": [],
+  "workspace": {
+    "formId": "",
+    "spreadsheetId": "",
+    "webhookSecret": "changmi-2026-secret",
+    "lastSyncedAt": null
+  }
+}

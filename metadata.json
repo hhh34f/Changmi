@@ -1,0 +1,8 @@
+{
+  "name": "Quán Mì Cay Changmi — Chấm công & Tính lương",
+  "description": "Hệ thống quản lý nhân viên, đồng bộ chấm công Google Form / Google Sheets và tính lương tự động dành cho Quán Mì Cay Changmi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
